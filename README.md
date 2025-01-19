@@ -1,6 +1,6 @@
-# Your Shop Name
+# Sweet Kaiz Varieties
 
-Welcome to **Your Shop**! This is an e-commerce website where you can showcase and sell your amazing products.
+Welcome to **Sweet Kaiz Varieties**! This is an e-commerce website where you can showcase and sell your delightful variety of products.
 
 ## Description
 
